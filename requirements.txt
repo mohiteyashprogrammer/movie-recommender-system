@@ -1,0 +1,12 @@
+pandas 
+numpy 
+nltk
+statistics
+seaborn
+matplotlib
+streamlit
+requests
+scikit-learn
+ipykernel
+
+-e .
